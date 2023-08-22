@@ -1,0 +1,2 @@
+print("Hei maailma!")
+
