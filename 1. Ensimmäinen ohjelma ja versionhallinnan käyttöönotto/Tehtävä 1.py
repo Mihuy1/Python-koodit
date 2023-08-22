@@ -1,0 +1,1 @@
+print("Hei, Patrik Hyytiäinen!") # Tehtävä 1
