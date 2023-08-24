@@ -14,3 +14,6 @@ while i <= 5:
         print("Kokeile uudestaan!")
         i += 1
         continue
+
+if i >= 5:
+    print("Pääsy evätty.")
