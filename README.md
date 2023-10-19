@@ -1,4 +1,4 @@
 # Python-koodit
 Omat Python-ohjelmakoodit
 
-Ohjelmisto 1 python tehtävät.
+Ohjelmisto 1 ja 2 python tehtävät.
